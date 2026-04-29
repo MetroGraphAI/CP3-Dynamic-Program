@@ -17,11 +17,6 @@ checkpoint-2-dynamic-programming/
  
 🚀 Como Usar
 Google Colab (Recomendado)
- 
-Acesse https://colab.research.google.com
-Clique em File → Upload notebook
-Selecione notebook.ipynb
- 
 Jupyter Local
 bashpip install pandas folium
 jupyter notebook notebook.ipynb
