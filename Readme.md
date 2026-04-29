@@ -1,6 +1,6 @@
-Checkpoint 2 — Dynamic Programming: Memoização + Rotas de Metrô
+Checkpoint 3 — Dynamic Programming: Memoização + Rotas de Metrô
 Disciplina: FIAP — Dynamic Programming
-Checkpoint: 2 (Recursão com Memoização)
+Checkpoint: 3 (Recursão com Memoização)
  
 📍 Grupo
 Rafael Falaguasta Ferraz Rm56174
