@@ -20,6 +20,9 @@ Google Colab (Recomendado)
 Jupyter Local
 bashpip install pandas folium
 jupyter notebook notebook.ipynb
+
+LINK
+https://colab.research.google.com/drive/1cCJI0Kdm7Km775P_3iIsRpgpRBdoC4rn#scrollTo=vMUt-8bUIAw0
  
 📊 Conteúdo do Notebook
 Grafos Modelados
